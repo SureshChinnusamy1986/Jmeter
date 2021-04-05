@@ -3,7 +3,7 @@ Jmeter script for google Search Home page
 
 **Jmeter setup steps**
 
-1. Navigate ti jmeter site
+1. Navigate to jmeter site - https://jmeter.apache.org/
 2. Download binary zip file
 3. unzip and navigate to bin 
 4. Execute jmeter (.exe) file foe windows , don't run jmeter.sh file
@@ -23,6 +23,6 @@ Jmeter script for google Search Home page
       inter-Thread communciation - sync seperate threads
       Json plugin -json to xml
       3 basic graphs - response time+
-12. unzip and copy all the jar file in the plugin and place the jar file in jmeter/lib/ext folder
-13. restart jmeter
+12. Unzip and copy all the jar file in the plugin and place the jar file in jmeter/lib/ext folder
+13. Restart jmeter
 	
